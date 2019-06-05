@@ -34,7 +34,7 @@ Quasar Framework is an MIT-licensed open source project. Its ongoing development
     <tr></tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://www.tayloredtechnology.net" target="_blank">
+        <a href="https://www.tayloredtechnology.com" target="_blank">
           <img width="300px" src="https://cdn.quasar.dev/sponsors/taylored-technology-big.jpeg">
         </a>
       </td>
